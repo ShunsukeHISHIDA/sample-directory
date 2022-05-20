@@ -1,2 +1,3 @@
 # sample-directory
-for testing
+## テスト用に作成したリポジトリです。
+## Repository created for testing purposes.
